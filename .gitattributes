@@ -8,3 +8,6 @@
 # Excluir archivos de documentación del análisis
 *.md linguist-vendored
 *.txt linguist-vendored
+
+# Forzar detección de todos los archivos
+*.* linguist-detectable=true
