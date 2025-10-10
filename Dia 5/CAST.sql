@@ -1,0 +1,1 @@
+SELECT titulo, CAST(año_lanzamiento AS CHARACTER) AS 'Año de Lanzamiento'  FROM series
