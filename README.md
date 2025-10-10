@@ -24,6 +24,8 @@ El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, 
 | `Día 3` | Consultas SQL básicas e intermedias | Filtrado, ordenamiento, agrupación y funciones agregadas aplicadas sobre la base “NetflixDB” |
 | `Día 4` | Combinaciones de tablas (JOINS) | Prácticas con `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` y `UNION ALL` para combinar información entre múltiples tablas |
 | `Día 5` | Subconsultas, CTEs y funciones avanzadas | Uso de `CASE`, `IF`, `CTE`, subconsultas, funciones matemáticas y de cadena, y desarrollo del **Proyecto Día 5** |
+| `Día 6` | Funciones de ventana y análisis avanzado | Implementación de `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PARTITION BY`, `REGEXP` y consultas con `CTE` para análisis de datos; incluye el **Proyecto Día 6** |
+
 
 
 
