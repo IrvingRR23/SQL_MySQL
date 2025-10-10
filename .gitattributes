@@ -1,0 +1,10 @@
+# Forzar detección de lenguaje SQL por GitHub Linguist
+*.sql linguist-language=SQL
+*.mysql linguist-language=SQL
+*.psql linguist-language=SQL
+*.dump linguist-language=SQL
+*.ddl linguist-language=SQL
+
+# Excluir archivos de documentación del análisis
+*.md linguist-vendored
+*.txt linguist-vendored
