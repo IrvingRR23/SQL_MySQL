@@ -1,12 +1,12 @@
-# 💾 SQL_MySQL — Prácticas y Proyectos en MySQL Workbench
+# SQL_MySQL — Prácticas y Proyectos en MySQL Workbench
 
 **Autor:** Irving Rodríguez Rodríguez  
 **Base de datos:** MySQL Workbench 8.0  
-**Estado:** En desarrollo continuo 🚀  
+**Estado:** En desarrollo continuo 
 
 ---
 
-## 📚 Descripción general
+## Descripción general
 
 Este repositorio contiene mis **prácticas, ejercicios y proyectos realizados en MySQL Workbench**, organizados por días de estudio.  
 Cada carpeta representa una sesión práctica del curso, con scripts SQL, consultas, y proyectos enfocados en dominar los fundamentos y temas avanzados del lenguaje **SQL**.
@@ -34,7 +34,7 @@ El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, 
 
 ---
 
-## 🧠 Temas cubiertos
+## Temas cubiertos
 
 - Creación y modelado de bases de datos  
 - Inserción y manipulación de datos  
