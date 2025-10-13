@@ -26,7 +26,7 @@ El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, 
 | `Día 5` | Subconsultas, CTEs y funciones avanzadas | Uso de `CASE`, `IF`, `CTE`, subconsultas, funciones matemáticas y de cadena, y desarrollo del **Proyecto Día 5** |
 | `Día 6` | Funciones de ventana y análisis avanzado | Implementación de `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PARTITION BY`, `REGEXP` y consultas con `CTE` para análisis de datos; incluye el **Proyecto Día 6** |
 | `Día 7` | Diseño y modelado de bases de datos | Creación de modelos entidad–relación en **MySQL Workbench**, análisis de **cardinalidades**, y generación de esquemas y datos (`empresa_schema.sql` y `empresa_data.sql`) para las bases de datos **Empresa** y **Librería** |
-| `Día 8` | Creación de tablas con comandos DDL, DML y CRUD | Uso de comandos `CREATE`, `ALTER`, `INSERT`, `UPDATE` y `DELETE`; implementación de **auto incrementos**, **índices**, gestión de **usuarios y permisos**, y desarrollo de tablas completas aplicando los principios de manipulación de datos (**Proyecto Día 8**) |
+| `Día 8` | Creación de tablas con comandos DDL, DML y CRUD | Uso de comandos `CREATE`, `ALTER`, `INSERT`, `UPDATE` y `DELETE`; implementación de **auto incrementos**, **índices**, gestión de **usuarios y permisos**, y desarrollo de tablas completas aplicando los principios de manipulación de datos  |
 | `Día 9` | Procedimientos almacenados y transacciones | Creación y ejecución de **procedimientos almacenados** con parámetros de entrada y salida, manejo de **transacciones** con `COMMIT` y `ROLLBACK`, y desarrollo del **Proyecto Día 9** sobre operaciones automáticas y seguras en bases de datos relacionales |
 
 
