@@ -15,20 +15,18 @@ El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, 
 
 ---
 
-## Estructura del repositorio
-
-| Carpeta | Contenido principal | Enfoque |
-|----------|----------------------|----------|
-| `Día 1` | Introducción teórica al lenguaje SQL | Conceptos fundamentales |
-| `Día 2` | Creación de esquema y carga de datos | Proyecto “NetflixDB”: base de datos relacional con tablas de Series, Actores, Episodios y Actuaciones |
-| `Día 3` | Consultas SQL básicas e intermedias | Filtrado, ordenamiento, agrupación y funciones agregadas aplicadas sobre la base “NetflixDB” |
-| `Día 4` | Combinaciones de tablas (JOINS) | Prácticas con `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` y `UNION ALL` para combinar información entre múltiples tablas |
-| `Día 5` | Subconsultas, CTEs y funciones avanzadas | Uso de `CASE`, `IF`, `CTE`, subconsultas, funciones matemáticas y de cadena, y desarrollo del **Proyecto Día 5** |
-| `Día 6` | Funciones de ventana y análisis avanzado | Implementación de `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PARTITION BY`, `REGEXP` y consultas con `CTE` para análisis de datos; incluye el **Proyecto Día 6** |
-| `Día 7` | Diseño y modelado de bases de datos | Creación de modelos entidad–relación en **MySQL Workbench**, análisis de **cardinalidades**, y generación de esquemas y datos (`empresa_schema.sql` y `empresa_data.sql`) para las bases de datos **Empresa** y **Librería** |
-| `Día 8` | Creación de tablas con comandos DDL, DML y CRUD | Uso de comandos `CREATE`, `ALTER`, `INSERT`, `UPDATE` y `DELETE`; implementación de **auto incrementos**, **índices**, gestión de **usuarios y permisos**, y desarrollo de tablas completas aplicando los principios de manipulación de datos  |
-| `Día 9` | Procedimientos almacenados y transacciones | Creación y ejecución de **procedimientos almacenados** con parámetros de entrada y salida, manejo de **transacciones** con `COMMIT` y `ROLLBACK`, y desarrollo del **Proyecto Día 9** sobre operaciones automáticas y seguras en bases de datos relacionales |
-
+| Carpeta  | Contenido principal                             | Enfoque                                                                                                                                                                                                                                                                                    |
+| -------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Día 1`  | Introducción teórica al lenguaje SQL            | Conceptos fundamentales                                                                                                                                                                                                                                                                    |
+| `Día 2`  | Creación de esquema y carga de datos            | Proyecto “NetflixDB”: base de datos relacional con tablas de Series, Actores, Episodios y Actuaciones                                                                                                                                                                                      |
+| `Día 3`  | Consultas SQL básicas e intermedias             | Filtrado, ordenamiento, agrupación y funciones agregadas aplicadas sobre la base “NetflixDB”                                                                                                                                                                                               |
+| `Día 4`  | Combinaciones de tablas (JOINS)                 | Prácticas con `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN` y `UNION ALL` para combinar información entre múltiples tablas                                                                                                                                                                       |
+| `Día 5`  | Subconsultas, CTEs y funciones avanzadas        | Uso de `CASE`, `IF`, `CTE`, subconsultas, funciones matemáticas y de cadena, y desarrollo del **Proyecto Día 5**                                                                                                                                                                           |
+| `Día 6`  | Funciones de ventana y análisis avanzado        | Implementación de `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `PARTITION BY`, `REGEXP` y consultas con `CTE` para análisis de datos; incluye el **Proyecto Día 6**                                                                                                                                 |
+| `Día 7`  | Diseño y modelado de bases de datos             | Creación de modelos entidad–relación en **MySQL Workbench**, análisis de **cardinalidades**, y generación de esquemas y datos (`empresa_schema.sql` y `empresa_data.sql`) para las bases de datos **Empresa** y **Librería**                                                               |
+| `Día 8`  | Creación de tablas con comandos DDL, DML y CRUD | Uso de comandos `CREATE`, `ALTER`, `INSERT`, `UPDATE` y `DELETE`; implementación de **auto incrementos**, **índices**, gestión de **usuarios y permisos**, y desarrollo de tablas completas aplicando los principios de manipulación de datos                                              |
+| `Día 9`  | Procedimientos almacenados y transacciones      | Creación y ejecución de **procedimientos almacenados** con parámetros de entrada y salida, manejo de **transacciones** con `COMMIT` y `ROLLBACK`, y desarrollo del **Proyecto Día 9** sobre operaciones automáticas y seguras en bases de datos relacionales                               |
+| `Día 10` | Vistas y triggers                               | Creación de **vistas** (`CREATE VIEW`, `ALTER VIEW`) y pruebas de **disparadores** (`TRIGGER`) con `BEFORE`/`AFTER` en `INSERT`, `UPDATE` y `DELETE`; incluye el **Proyecto Día 10 – Vistas 1 y 2** (`Vistas.sql`, `Proyecto 10 - Vista.sql`, `Proyecto 10 - Vista 2.sql`, `Triggers.sql`) |
 
 
 *(Esta lista se actualizará conforme avance el proyecto.)*
