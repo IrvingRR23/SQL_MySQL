@@ -14,6 +14,7 @@ Cada carpeta representa una sesión práctica del curso, con scripts SQL, consul
 El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, mostrando buenas prácticas en consultas, modelado, documentación y optimización.
 
 ---
+
 | Carpeta  | Contenido principal                             | Enfoque                                                                                                                                                                                                                                                                                    |
 | -------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `Día 1`  | Introducción teórica al lenguaje SQL            | Conceptos fundamentales                                                                                                                                                                                                                                                                    |
@@ -27,8 +28,8 @@ El objetivo de este repositorio es **documentar mi progreso y dominio de SQL**, 
 | `Día 9`  | Procedimientos almacenados y transacciones      | Creación y ejecución de **procedimientos almacenados** con parámetros de entrada y salida, manejo de **transacciones** con `COMMIT` y `ROLLBACK`, y desarrollo del **Proyecto Día 9** sobre operaciones automáticas y seguras en bases de datos relacionales                               |
 | `Día 10` | Vistas y triggers                               | Creación de **vistas** (`CREATE VIEW`, `ALTER VIEW`) y pruebas de **disparadores** (`TRIGGER`) con `BEFORE`/`AFTER` en `INSERT`, `UPDATE` y `DELETE`; incluye el **Proyecto Día 10 – Vistas 1 y 2** (`Vistas.sql`, `Proyecto 10 - Vista.sql`, `Proyecto 10 - Vista 2.sql`, `Triggers.sql`) |
 | `Día 11` | **Proyecto – Sistema de Reservas de Hotel**     | Desarrollo de un **sistema de reservas hoteleras** con tres tablas principales (`clientes`, `reservas`, `habitaciones`), uso de **claves foráneas**, **restricciones de integridad referencial** y relaciones **uno a muchos** para modelar la conexión entre huéspedes, reservas y habitaciones |
+| `Día 12` | Consultas de entrevista SQL – Ranking por desempeño | Ejercicios prácticos tipo entrevista aplicando **funciones de ventana** (`DENSE_RANK()`, `SUM()`), **agrupaciones** y **joins** para obtener rankings de empleados según sus horas trabajadas por departamento. Incluye los archivos `entrevista_1.sql`, `entrevista_2.sql` y `entrevista_3.sql`. |
 
-*(Esta lista se actualizará conforme avance el proyecto.)*
 
 ---
 
